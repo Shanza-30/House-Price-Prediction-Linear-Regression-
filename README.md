@@ -18,36 +18,36 @@ Steps Performed
 Viewed data using head(), info(), describe(), and shape
 Identified numeric and categorical features
 
-3. Data Cleaning
+2. Data Cleaning
 
 Filled missing numeric values with mean
 Filled missing categorical values with mode
 
-5. Feature Encoding
+3. Feature Encoding
    
 Converted categorical variables using one-hot encoding
 
-6. Feature Engineering
+4. Feature Engineering
    
 Created new features like:
 TotalArea
 TotalBath
 
-8. Outlier Handling
+5. Outlier Handling
    
 Removed extreme values from living area vs price
 
-10. Model Training
+6. Model Training
     
 Used Linear Regression
 Split data into train and validation sets
 
-12. Evaluation
+7. Evaluation
     
 Evaluated using RMSE
 Applied cross-validation for stable results
 
-14. Prediction
+8. Prediction
 
 Generated predictions on test data
 Created final submission file
