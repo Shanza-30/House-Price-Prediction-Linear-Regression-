@@ -6,9 +6,13 @@ The goal is to build a clean machine learning pipeline and evaluate it using RMS
 Dataset
 
 Files used:
+
 train.csv – Training data with target SalePrice
+
 test.csv – Data for final prediction
+
 sample_submission.csv – Submission format
+
 data_description.txt – Column explanations
 
 Steps Performed
